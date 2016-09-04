@@ -1,2 +1,2 @@
 # hello-world
-first one
+hi I'm new here
